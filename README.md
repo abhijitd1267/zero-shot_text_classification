@@ -17,7 +17,7 @@
 ## Installation
 ```bash
 git clone https://github.com/abhijitd1267/zero-shot-classifier.git
-cd zero-shot-classifier
+cd ZeroText
 pip install -r requirements.txt
 ```
 
