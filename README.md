@@ -16,7 +16,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/zero-shot-classifier.git
+git clone https://github.com/abhijitd1267/zero-shot-classifier.git
 cd zero-shot-classifier
 pip install -r requirements.txt
 ```
