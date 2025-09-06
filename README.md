@@ -12,7 +12,8 @@
 - **app.py**: Entry point that ties the classifier to the user interface and renders results.  
 - **cli.py**: Command-line wrapper for running zero-shot classification from the terminal.  
 - **zero_shot_classifier.py**: Implements the ZeroShotTextClassifier with attention-enabled NLI inference.
-- **requirements.txt**: Dependencies required to install. 
+- **requirements.txt**: Dependencies required to install.
+- **video_output_demo_web.mov**: Demo output video of the classifier.
 
 ## Installation
 ```bash
